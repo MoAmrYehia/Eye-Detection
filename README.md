@@ -1,1 +1,1 @@
-# Eye-Detection
+# Eye Detection
